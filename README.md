@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera final project week-1
+Capstone final project 
